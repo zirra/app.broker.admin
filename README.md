@@ -1,5 +1,10 @@
 # app.broker.admin
 
+## Project Definition
+Switching to a Brokerage focused model where the product supports Brokerages managing their signage and assignment of signs to properties to agents.
+
+Test
+
 ## Project setup
 ```
 npm install
